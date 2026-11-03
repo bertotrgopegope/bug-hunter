@@ -1,4 +1,4 @@
-markdown
+
 <div align="center">
   <img src="94faef9a35ff42e55c12a6aaf5503697.jpg" alt="Bug Hunter Preview" width="100%">
   
